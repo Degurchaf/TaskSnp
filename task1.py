@@ -1,4 +1,4 @@
-class Task:
+class Task1:
 
     def is_palindrome(string):
         flist = []
